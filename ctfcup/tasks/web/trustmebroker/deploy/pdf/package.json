@@ -1,3 +1,0 @@
-{ "name":"pdf_service","private":true,
-  "scripts":{"start":"node index.js"},
-  "dependencies":{"express":"^4","puppeteer":"^22"}}
