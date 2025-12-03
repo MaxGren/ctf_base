@@ -8,4 +8,4 @@
 
 Задание для четвероногих: turtlebone_ed8694c.tar.gz
 
-Начать откапывать: UCBLogo → Ctrl-O → turtlebone.lg
+Начать откапывать: UCBLogo (https://github.com/jrincayc/ucblogo-code/releases) → Ctrl-O → turtlebone.lg
