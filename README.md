@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/CTF-Bank-blue?style=for-the-badge&logo=github" alt="CTF Bank Badge"/>
-  <br>
-  <strong>Практическая лаборатория для энтузиастов кибербезопасности</strong>
-</p>
-
----
 
 ## 🌟 О проекте
 
@@ -38,5 +31,5 @@
 
 ### 📥 Клонирование репозитория
 ```bash
-git clone https://github.com/your-username/ctf-bank.git
-cd ctf-bank
+git clone https://github.com/MaxGren/ctf_base.git
+cd ctf_base
